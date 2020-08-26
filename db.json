@@ -1,31 +1,8 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "codeError": null,
+  "data": "[{"Id_Negocio":10,"Negocio":"Capital Humano","Casos":"[{\"Id_Caso\":1,\"Caso\":\"Caída en la colocación de Crédito al Consumo\",\"Conteo\":1},{\"Id_Caso\":2,\"Caso\":\"Préstamos Personales Mayores\",\"Conteo\":2}]"},{"Id_Negocio":11,"Negocio":"Catman","Casos":"[{\"Id_Caso\":4,\"Caso\":\"Administración\",\"Conteo\":1}]"},{"Id_Negocio":12,"Negocio":"Comercial","Casos":"[]"},{"Id_Negocio":14,"Negocio":"Estrategía y Desarrollo Del Cliente","Casos":"[{\"Id_Caso\":3,\"Caso\":\"Cartera de clientes\",\"Conteo\":1}]"},{"Id_Negocio":22,"Negocio":"Proyectos Comerciales","Casos":"[]"}]",
+  "datalist": null
+  "error": ""
+  "exito": true
+  "httpStatusCode": 0
 }
