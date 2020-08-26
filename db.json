@@ -1,5 +1,5 @@
 {
    "codeError": null,
-   "data": "[{\"Id_Negocio\":10,\"Negocio\":\"Capital Humano\",\"Casos\":\"[{\"Id_Caso\":1,\"Caso\":\"Caída en la colocación de Crédito al Consumo\",\"Conteo\":1},{\"Id_Caso\":2,\"Caso\":\"Préstamos Personales Mayores\",\"Conteo\":2}]\"},{\"Id_Negocio\":14,\"Negocio\":\"Estrategía y Desarrollo Del Cliente\",\"Casos\":\"[{\"Id_Caso\":3,\"Caso\":\"Cartera de clientes\",\"Conteo\":1}]\"},{\"Id_Negocio\":22,\"Negocio\":\"Proyectos Comerciales\",\"Casos\":\"[]\"}]",
+   "data": "[{\"Id_Negocio\":10,\"Negocio\":\"Capital Humano\",\"Casos\":\"[{\"Id_Caso\":1,\"Caso\":\"Caída en la colocación de Crédito al Consumo\",\"Conteo\":1},{\"Id_Caso\":2,\"Caso\":\"Préstamos Personales Mayores\",\"Conteo\":2}]\"}]",
    "datalist": null
 }
